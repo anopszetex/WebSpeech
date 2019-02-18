@@ -1,5 +1,5 @@
 # WebSpeech
-Buscando no Google via voz com palavras predeterminadas[obs: Reconhecimento Offline]
+Buscando no Google via voz com palavras predeterminadas. obs: Reconhecimento offline
 
 ![print1](https://user-images.githubusercontent.com/31970167/52966648-94682c00-3386-11e9-8bf0-2f6612a875ac.png)
 
